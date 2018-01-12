@@ -53,6 +53,7 @@ public class Main {
         System.out.println("3. Balansas");
         System.out.println("4. Transakcijos");
         System.out.println("5. Exit");
+        System.out.println("6. Valiuta");
     }
 
 }
