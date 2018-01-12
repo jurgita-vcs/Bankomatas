@@ -11,9 +11,10 @@ Padedant, padidėti. Reikia apgalvoti variantus, jei bus imama daugiau pinigų n
 bankomate. Jei bankomate baigėsi pinigai, aparatas turi nurodyti atitinkamą pranešimą.
 
 Papildomos užduotys
-  ● Bankomatas išduoda tik 10,20,50,100,200 kupiūras
-  ● Bankomatas gali išduoti pinigus skirtingomis valiutomis
-  ● Bankomatas užsiblokuoja, jei daugiau nei 3 kartus yra klaidingai įvedamas PIN kodas
-  ● Bankomatas renka komisinius už kiekvieną operaciją
-  ● Bankomatas išsaugo visas transakcija
-  ● Sukurti objektą piniginė, kuri papilnėja arba pratuštėja padavus į bankomato metodą
+
+	Bankomatas išduoda tik 10,20,50,100,200 kupiūras
+	Bankomatas gali išduoti pinigus skirtingomis valiutomis
+	Bankomatas užsiblokuoja, jei daugiau nei 3 kartus yra klaidingai įvedamas PIN kodas
+	Bankomatas renka komisinius už kiekvieną operaciją
+	Bankomatas išsaugo visas transakcija
+	Sukurti objektą piniginė, kuri papilnėja arba pratuštėja padavus į bankomato metodą
